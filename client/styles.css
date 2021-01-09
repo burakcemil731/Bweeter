@@ -1,0 +1,17 @@
+.title{
+    text-align: center;
+}
+
+.bweet-form, .loader {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.loader{
+    text-align: center;
+}
+
+.bweets{
+width: 80%;
+margin: 0 auto; 
+}
