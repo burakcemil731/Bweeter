@@ -1,15 +1,17 @@
 technologien:
 
-materialize library für css styles
+materialize library fÃ¼r css styles
 node.js
 expressjs/ morgan
 nodemon zum testen
 
 
-für lokale updates npm i --save-dev nodemon | npm run dev
-für fetch muss cors über npm i cors
+fÃ¼r lokale updates npm i --save-dev nodemon | npm run dev
+fÃ¼r fetch muss cors Ã¼ber npm i cors
 
-für datenbank:
+fÃ¼r datenbank:
 mongoDB Cloud atlas
 npm i monk
 deployed mit vercel
+
+Fehler im Server und DB.
