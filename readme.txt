@@ -15,3 +15,6 @@ npm i monk
 deployed mit vercel
 
 Fehler im Server und DB.
+ 
+client: https://bweetclient.burakcemil731.vercel.app/
+server: https://server.burakcemil731.vercel.app/
